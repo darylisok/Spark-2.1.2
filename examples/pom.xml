@@ -16,7 +16,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <PermGen>64m</PermGen>
         <MaxPermGen>1024m</MaxPermGen>
-        <spark.version>2.1.2</spark.version>
+        <spark.version>2.4.8</spark.version>
         <scala.binary.version>2.11</scala.binary.version>
         <scala.version>2.11.0</scala.version>
     </properties>
